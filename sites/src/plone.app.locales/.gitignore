@@ -1,0 +1,7 @@
+*~
+*.mo
+*.egg-info
+*.py[co]
+tx_*.po
+.idea
+/.*project
